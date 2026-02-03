@@ -10,20 +10,12 @@ An AI-powered interactive web application for automated single-cell RNA-seq cell
 - **Visual Analytics**: Real-time UMAP plots, dot plots, and marker gene visualization
 - **Iterative Refinement**: Human-in-the-loop feedback system for improving annotation accuracy
 
-<<<<<<< HEAD
-## 📋 Prerequisites
-=======
 ## Prerequisites
->>>>>>> 10535897201694e8f104a2b23fe2d6097c7f70f5
 
 - **Python**: 3.8 or higher
 - **Node.js**: 14.x or higher
 - **npm**: 6.x or higher
-<<<<<<< HEAD
-- **R**: Required for Cell Ontology (CL) lookups (install from https://www.r-project.org/)
-=======
 - **R**: Required for Cell Ontology (CL) lookups
->>>>>>> 10535897201694e8f104a2b23fe2d6097c7f70f5
 - **OpenAI API Key**: Required for AI-powered features
 
 ## Installation
@@ -61,11 +53,7 @@ The application uses R for ontology lookups. Ensure R is installed and the `rols
 install.packages("rols")
 ```
 
-<<<<<<< HEAD
-## 🎯 Usage
-=======
 ## Usage
->>>>>>> 10535897201694e8f104a2b23fe2d6097c7f70f5
 
 ### Starting the Application
 

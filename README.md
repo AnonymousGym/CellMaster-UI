@@ -53,7 +53,7 @@ The application uses R for ontology lookups. Ensure R is installed and the `rols
 install.packages("rols")
 ```
 
-## 🎯 Usage
+## Usage
 
 ### Starting the Application
 
